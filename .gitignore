@@ -34,3 +34,7 @@
 
 # Ignore database.yml if you use environment-based config
 /config/database.yml
+
+# Rails schema
+/db/schema.rb
+/db/structure.sql
