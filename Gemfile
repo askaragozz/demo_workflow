@@ -42,6 +42,9 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'faker'
   gem 'database_cleaner-active_record'
+  gem 'sorbet-rails'
+  gem 'shoulda-matchers'
+  gem 'ostruct'
 end
 
 group :development do
